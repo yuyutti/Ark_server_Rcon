@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "rcon": "^1.1.0"
+  }
+}
